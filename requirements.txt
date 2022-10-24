@@ -1,0 +1,10 @@
+flask
+flask_sqlalchemy
+
+flask_wtf
+wtf
+
+mysql-connector-python
+sqlalchemy
+
+requests
